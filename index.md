@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Comp HomePage manual
 ---
 
 This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
