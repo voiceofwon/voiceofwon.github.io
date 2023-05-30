@@ -1,38 +1,45 @@
 ---
 title: Introduction
 ---
+아주대학교 전자공학과 소학회 [Comp D&A](){: target="_blank"} 홈페이지는
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
+모든 랜더링을 Server Side에서 수행하는 사이트입니다.
 
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
+사이트는 동아리 내 회원관리, 회원 로그인/로그아웃, 동아리 내부 자료 관리, 활동내역 및 학습자료 배포 등의 기능을 제공합니다.&nbsp;
 
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
+> 2023 Comp D&A!!&nbsp;
 
-### Getting Started
+### Functions
 
-Getting a message sent is quick and easy with ChatApp:
+1. 관리자(동아리 운영진), 사용자(동아리 회원)CRUD + 회원가입, 로그인/로그아웃
+2. 학년, 학번 별 회원 관리
+3. 게시판 및 기능별 접근 권한 관리(관리자, 사용자)
+4. 공지사항, 활동내역, 학습 자료 게시판(+ 파일 업로드, 다운로드)
+5. 소학회 소개 내 연혁관리 시스템
+6. Total, daily, month visitor monitoring
 
-1. Sign up for an account
-2. Add your friends from their email addresses
-3. Type a message or send a photo
+개발환경 및 사용기술, 업데이트 내역은 [github](https://github.com/voiceofwon/Compage){: target="_blank"} 를 참고하시면 됩니다.
 
-> Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
+> Feel free to send us a message at [voiceofwon@gmail.com](mailto:voiceofwon@gmail.com)&nbsp;with your feedback.
 
-### Features
+### Manuals
 
-Explore more of ChatApp by reading about our features:
 
-#### Media
 
-Send images, videos and other media to people. Sources include your computer, phone and Facebook.
+#### 회원가입 및 회원 관리
 
-#### Contact Syncing
+관리자 회원가입, 사용자 회원가입 및 회원 정보 수정 등에 대한 기능을 설명합니다.
 
-Sync your contact list with your phone and/or Facebook contacts. Never lose your contacts between devices again!
+#### 게시글 업로드 및 수정(상단 고정 공지 포함)
 
-#### Devices
+각 게시판 별 업로드 규정
 
-ChatApp is available everywhere. Find out how to set it up on your all your devices.
+#### 파일 업로드/다운로드
+
+파일 업로드/다운로드 시 주의 사항
+
+#### 연혁 관리
+
+
+
+#### 서버 재 배포 메뉴얼

@@ -71,6 +71,7 @@ defaults:
       _comments:
         type: Marks the impact of this release
 
+
 # -----------
 # CloudCannon
 
