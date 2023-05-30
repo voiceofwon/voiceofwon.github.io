@@ -1,7 +1,7 @@
 ---
 title: Introduction
 ---
-아주대학교 전자공학과 소학회 [Comp D&A](){: target="_blank"} 홈페이지는
+아주대학교 전자공학과 소학회 [Comp D&A](http://www.ajoucomp.com){: target="_blank"} 홈페이지는
 
 모든 랜더링을 Server Side에서 수행하는 사이트입니다.
 
